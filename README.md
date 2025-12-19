@@ -1,2 +1,2 @@
 # core-innovation
-let's begin with 
+let's begin with c
